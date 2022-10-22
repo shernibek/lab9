@@ -28,3 +28,6 @@ function between0and1 (x) {
     return false;
   }
 }
+console.log(between0and1(3));
+console.log(between0and1(0.542));
+console.log(between0and1(0));
